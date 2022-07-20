@@ -1,6 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     background: lightgray;
+    margin: 5px;
 }
 
 #image {
